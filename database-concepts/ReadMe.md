@@ -1,1 +1,1 @@
-Hussein Nasser course Udemy Fundamentals of database engineering
+Fundamentals of database
